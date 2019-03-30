@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hmargen">20dp</dimen>
+    <dimen name="topmargen">20dp</dimen>
+    <dimen name="topmargen_datos">20dp</dimen>
+    <dimen name="topmargen_titulo">20dp</dimen>
+    <dimen name="topmargen_boton">50dp</dimen>
+    <dimen name="leftdata">10dp</dimen>
+</resources>
